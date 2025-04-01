@@ -9,7 +9,13 @@ wellbeing.
 The rules and mechanics provided are meant to work as a general rule set in which there is
 room for additions. Some parts of them may be adapted, modified, or omitted based on the
 format you choose to play, for as long as all players agree to the rules before the game
-starts. This also includes cards and expansions allowed to be played
+starts. This also includes cards and expansions allowed to be played.
+
+In Archen you will choose your main character as the foundation to win the game by fulfilling 
+objectives or simply obtain more victory points than everyone else. Gather resources to acquire
+characters, activate powerful abilities and make use of a varity of item cards to complete
+your strategy. Regardless if you want to aggressively put your opponent under preasure or built
+up your defense, you don't need to engage into combat - but it is still an option!
 
 <hr/>
 
